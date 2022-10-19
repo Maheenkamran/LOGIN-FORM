@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(128, 128, 128, 0.459);
+}
+.heading{
+    background-color: rgb(25, 205, 236);
+    text-align: center;
+    font-size: large;
+}
+Body {  
+    font-family: Calibri, Helvetica, sans-serif;  
+    background-color: rgb(153, 147, 148);  
+  }  
+  button {   
+         background-color: #04baf1;   
+         width: 100%;  
+          color: orange;   
+          padding: 15px;   
+          margin: 10px 0px;   
+          border: none;   
+          cursor: pointer;   
+           }   
+   form {   
+          border: 3px solid #f8adad;   
+      }   
+   input[type=text], input[type=password] {   
+          width: 100%;   
+          margin: 8px 0;  
+          padding: 12px 20px;   
+          display: inline-block;   
+          border: 2px solid rgb(43, 192, 238);   
+          box-sizing: border-box;   
+      }  
+  
